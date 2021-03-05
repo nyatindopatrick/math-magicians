@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator should include do some math! 1`] = `
+<div
+  className="main"
+>
+  <div
+    className="calculator-main"
+  >
+    <h2>
+      Let's do some math!
+    </h2>
+    <iframe
+      src="https://calculator-reac-app.netlify.app/"
+      title="calculator"
+    />
+  </div>
+</div>
+`;

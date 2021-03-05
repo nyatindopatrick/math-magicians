@@ -1,14 +1,12 @@
 import React from 'react';
-import { shallow } from 'enzyme';
+import renderer from 'react-test-renderer';
 
 import Home from '../Home';
 
 describe('Home', () => {
-  let wrapper;
-
   it('Contains Welcome to our page! text', () => {
-    wrapper = shallow(<Home />);
+    const tree = renderer.create(<Home />).toJSON();
 
-    expect(wrapper.find('h1').text()).toContain('Welcome to our page!');
+    expect(tree).toMatchSnapshot();
   });
 });
