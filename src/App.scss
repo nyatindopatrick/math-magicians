@@ -1,0 +1,23 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+.main {
+  padding: 1rem;
+}
+
+.calculator-main {
+  display: grid;
+  grid-template-columns: auto 700px;
+
+  iframe {
+    width: 100%;
+    min-height: 600px;
+    height: 100%;
+    border: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .calculator-main {
+    grid-template-columns: 1fr;
+  }
+}
