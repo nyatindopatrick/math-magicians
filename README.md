@@ -1,5 +1,10 @@
 # math-magicians
 
+![screenshot](https://res.cloudinary.com/dnzr6wrju/image/upload/v1614927082/Screenshot_2021-03-05_at_09.50.34_zolbaq.png)
+
+## live link
+[https://math-magicians.netlify.app](https://math-magicians.netlify.app/)
+
 ## Getting Started
 - Clone the project [here](https://github.com/nyatindopatrick/math-magicians.git)
 - Navigate to the project directory in your terminal
