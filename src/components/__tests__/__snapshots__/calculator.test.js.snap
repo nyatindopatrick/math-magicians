@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator should include do some math! 1`] = `
+<div
+  className="main"
+>
+  <div
+    className="calculator-main"
+  >
+    <h2>
+      Let's do some math!
+    </h2>
+    <div
+      className="app"
+    >
+      <div
+        className="screen"
+      >
+        0
+      </div>
+      <div
+        className="button-panel"
+      >
+        <div>
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="AC"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="+/-"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="%"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#f5913e",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="÷"
+          />
+        </div>
+        <div>
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="7"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="8"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="9"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#f5913e",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="X"
+          />
+        </div>
+        <div>
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="4"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="5"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="6"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#f5913e",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="-"
+          />
+        </div>
+        <div>
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="1"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="2"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="3"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#f5913e",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="+"
+          />
+        </div>
+        <div>
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "50%",
+              }
+            }
+            type="button"
+            value="0"
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "e0e0e0",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="."
+          />
+          <input
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#f5913e",
+                "width": "25%",
+              }
+            }
+            type="button"
+            value="="
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
